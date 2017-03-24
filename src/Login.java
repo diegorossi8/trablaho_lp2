@@ -127,4 +127,4 @@ public class Login extends JFrame implements ActionListener {
 		}
 	}
 }
-//testando essa caralha que está me dando na porra dos nervos essa buceta do caralho pau no cu do Bill Gates
+//testando essa caralha que está me dando na porra dos nervos essa buceta do caralho pau no cu do Bill Gates!!!!!!!!!!!
