@@ -109,7 +109,7 @@ public class Login extends JFrame implements ActionListener {
 		textPassSenha.setColumns(10);
 
 		JLabel lblFundo = new JLabel("");
-		lblFundo.setIcon(new ImageIcon("C:\\Users\\LABSI1\\Documents\\Brahma-logo.jpg"));
+		lblFundo.setIcon(new ImageIcon("c:\Imagens\Brahma-logo.jpg"));
 		lblFundo.setBounds(0, 0, 559, 542);
 		contentPane.add(lblFundo);
 
@@ -127,4 +127,3 @@ public class Login extends JFrame implements ActionListener {
 		}
 	}
 }
-//testando essa caralha que está me dando na porra dos nervos essa buceta do caralho pau no cu do Bill Gates!!!!!!!!!!!!!!!!!!!!!
